@@ -122,7 +122,7 @@ curl -X POST http://localhost:5000/issue_book \
   -d '{"member_id":"MEM123456","copy_id":"CP123"}'
 ```
 
-## Future Enhancements
+## Future Enhancements ToDo
 
 - Frontend user interface
 - Book return functionality
@@ -130,6 +130,3 @@ curl -X POST http://localhost:5000/issue_book \
 - Search functionality
 - Reports and analytics dashboard
 
----
-
-*This project was created as a database management system demonstration.*
