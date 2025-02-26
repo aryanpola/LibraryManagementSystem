@@ -1,0 +1,4 @@
+Flask
+pymysql
+Faker
+python-dateutil
